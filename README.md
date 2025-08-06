@@ -7,6 +7,7 @@ This application includes creation, buying, selling and reselling of NFTs and us
 
 Context API is used for state management and Tailwind CSS is used for styling the application. Solidity is used to write smart contract and hardhat is used to deploy the smart contract.
 
+
 ## Key Features:
 
 * *Web3 Integration*: NFT Marketplace embraces Web3 concepts and technologies, ensuring a decentralized and secure trading environment.  
